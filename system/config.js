@@ -24,7 +24,7 @@ global.chatai_key = 'MKPsfkgXLZPGrWoH'
 // Timezone (Default : Asia/Jakarta)
 global.timezone = 'Asia/Jakarta'
 // Bot version
-global.version = '2.2.1',
+global.version = '2.2.1'
 // Bot name
 global.botname = `© neoxr-bot v${global.version} (Public Bot)`
 // Footer text
